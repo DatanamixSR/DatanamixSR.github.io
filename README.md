@@ -1,4 +1,2 @@
 # DatanamixSR.github.io
-This will be the main portfolio page for DatanamixSR. I am currently located in New York City and love open data.
-
-yes
+Welcom to my github page! Here you can see some of my work in webscraping and R Shiny.
